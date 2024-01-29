@@ -10,7 +10,7 @@
 ### ‎ 
 
 ### 🧨 Backend developer
-### 🧨 Experienced with : C#
+### 🧨 Experienced with : C#, C++
 ### 🧨 My main language is : C++
 ### ‎ 
 
