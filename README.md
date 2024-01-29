@@ -1,12 +1,10 @@
 ### ☕Hello and welcome to my profile☕
 
-###‎  
 ### ‎ 
 ### 🤠‎ 
 ### 👔‎ 
 ### 👖‎ 
 ### 👞‎ 
-### ‎ 
 ### ‎ 
 
 ### 🧨 Backend developer
