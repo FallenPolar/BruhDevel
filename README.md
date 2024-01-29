@@ -1,6 +1,6 @@
 ![gradientline](https://github.com/BruhDevel/BruhDevel/assets/118571561/27bbba80-4095-498c-9550-bdf39dc74ebf)
 
-### ☕Hello and welcome to my profile☕
+### ☕ Welcome to my profile☕
 
 ### ‎ 
 ### 🤠
