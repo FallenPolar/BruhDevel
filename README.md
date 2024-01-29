@@ -12,6 +12,8 @@
 ### 🧨 My main language is : C++
 ### ‎ 
 
+![octocat-1706543300484](https://github.com/BruhDevel/BruhDevel/assets/118571561/eb7ecd90-72e7-42e3-9dea-775be5476864)
+
 
 ### 🔒🔒🔒Profile stats🔒🔒🔒
 ###  ‎ ‎ 
