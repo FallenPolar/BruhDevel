@@ -11,7 +11,6 @@
 
 ### 🧨 Backend developer
 ### 🧨 Experienced with : C#, C++
-### 🧨 My main language is : C++
 ### 🧨 Leetcode portfolio : https://github.com/BruhDevel/Leetcode-Portfolio
 ### ‎ 
 
