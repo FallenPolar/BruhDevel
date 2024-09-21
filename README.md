@@ -1,7 +1,7 @@
 ### ☕ Welcome to my profile☕
 
 ### 🧨 Backend developer
-### 🧨 Experienced with : C#, C++
+### 🧨 Experienced with : C#, C++, Java, Lua
 ### 🧨 Leetcode portfolio : https://github.com/FallenPolar/Leetcode-Portfolio
 ### ‎ 
 
