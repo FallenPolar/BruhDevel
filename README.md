@@ -2,7 +2,7 @@
 
 ### 🧨 Backend developer
 ### 🧨 Experienced with : C#, C++
-### 🧨 Leetcode portfolio : https://github.com/BruhDevel/Leetcode-Portfolio
+### 🧨 Leetcode portfolio : https://github.com/FallenPolar/Leetcode-Portfolio
 ### ‎ 
 
 ### 🔒🔒🔒Profile stats🔒🔒🔒
